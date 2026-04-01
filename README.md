@@ -75,17 +75,17 @@ Priya owes Raj Rs.300
 
 ## 📸 Screenshot
 
-*(Add your screenshot here)*
+ https://image2url.com/r2/default/images/1775070928371-a05ab59d-0926-4c8f-a404-bcb594ba577f.png
 
 ```
-![App Screenshot] https://image2url.com/r2/default/images/1775070928371-a05ab59d-0926-4c8f-a404-bcb594ba577f.png
+![App Screenshot]
 ```
 
 ---
 
 ## 🎥 Demo Video
 
-*(Add your demo video link here)*
+https://screenapp.io/app/v/qdHbelZ0ch
 
 ---
 
